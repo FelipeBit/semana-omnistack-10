@@ -11,8 +11,9 @@ const server = http.Server(app);
 
 setupWebsocket(server);
 
+// Insert yout login : password
 mongoose.connect(
-  "mongodb+srv://felipebittencourt:99812827@cluster0-upyog.mongodb.net/test?retryWrites=true&w=majority",
+  "mongodb+srv://XXXXX:XXXXX@cluster0-upyog.mongodb.net/test?retryWrites=true&w=majority",
   {
     useNewUrlParser: true,
     useUnifiedTopology: true
