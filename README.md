@@ -9,13 +9,18 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * Expo
 * MongoDB
 
-![Chat image](https://github.com/FelipeBit/semana-omnistack-10/blob/master/mobile/assets/img1.jpg)
+
+...
+
+![](./pic/pic1_50.png =100x20)
+
+![web app image](https://github.com/FelipeBit/semana-omnistack-10/blob/master/mobile/assets/img1.jpg)
 
 
-![Chat image](https://github.com/FelipeBit/semana-omnistack-10/blob/master/mobile/assets/img2.jpg)
+![mobile app image](https://github.com/FelipeBit/semana-omnistack-10/blob/master/mobile/assets/img2.jpg =50x100)
 
 
-![Chat image](https://github.com/FelipeBit/semana-omnistack-10/blob/master/mobile/assets/img4.jpg)
+![mobile app image](https://github.com/FelipeBit/semana-omnistack-10/blob/master/mobile/assets/img4.jpg =50x800)
 
 
-![Chat image](https://github.com/FelipeBit/semana-omnistack-10/blob/master/mobile/assets/img3.jpg)
+![mobile app image github](https://github.com/FelipeBit/semana-omnistack-10/blob/master/mobile/assets/img3.jpg =100x100)
