@@ -16,8 +16,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ![web app image](https://github.com/FelipeBit/semana-omnistack-10/blob/master/mobile/assets/img1.jpg)
 
+<img src="https://github.com/FelipeBit/semana-omnistack-10/blob/master/mobile/assets/img2.jpg" alt="drawing" width="200"/>
 
-![mobile app image](https://github.com/FelipeBit/semana-omnistack-10/blob/master/mobile/assets/img2.jpg =50x)
 
 
 ![mobile app image](https://github.com/FelipeBit/semana-omnistack-10/blob/master/mobile/assets/img4.jpg =50x)
