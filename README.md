@@ -1,8 +1,6 @@
-# semana-omnistack-10
+# Semana Omnistack 10 (RocketSeat),  "Dev Radar".
 
-Projeto realizado durante a semana omnistack 10 (RocketSeat),  "Dev Radar".
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 * Node.js
 * React
