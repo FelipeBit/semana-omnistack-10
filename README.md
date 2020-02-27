@@ -1,4 +1,5 @@
 # semana-omnistack-10
+
 Projeto realizado durante a semana omnistack 10 (RocketSeat),  "Dev Radar".
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -15,10 +16,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
  
 # Web App image. 
 
+
+
 ![web app image](https://github.com/FelipeBit/semana-omnistack-10/blob/master/mobile/assets/img1.jpg)
 
 
 # Mobile App images.
+
 
 <div>
 <img src="https://github.com/FelipeBit/semana-omnistack-10/blob/master/mobile/assets/img2.jpg" alt="mobile app screenshot" width="280"/>
